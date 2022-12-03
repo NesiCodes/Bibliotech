@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/unejs/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/activebooks.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/add_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/dashboard_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/edit_details_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/google_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/home_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_baseline_admin_panel_settings_24.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_baseline_pending_actions_24.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_facebook.xml" value="0.3828125" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_add_phone_32.xml" value="0.37037037037037035" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_agenda_32.xml" value="0.37037037037037035" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_book_50.xml" value="0.3181818181818182" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_home_address_50.xml" value="0.37037037037037035" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_invite_50.xml" value="0.3181818181818182" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_rating_50.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_icons8_user_64.xml" value="0.37037037037037035" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ic_user.xml" value="0.18026315789473685" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/iconborrowedbooks3.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/iconinvite.xml" value="0.18771929824561404" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/icons8_borrow_book_50.xml" value="0.3181818181818182" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/icons8_invite_48.xml" value="0.3181818181818182" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/icons8_invite_50.xml" value="0.3181818181818182" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/image_placeholder_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/input_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/notifications_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/ordered_books.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/profile_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/drawable/toolbar_background.xml" value="0.18640350877192982" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_books.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_edit_book_details.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_login_as_admin.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_new_admin_profile_fragment.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_new_login_for_user.xml" value="0.14" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_new_user_profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_register_user_from_admin.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_splash_screen.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/activity_user_details.xml" value="0.33" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/adminlogin_activity.xml" value="0.33" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/custom_dialog.xml" value="0.17412280701754385" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_active_books.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_add_books.xml" value="0.33" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_admin_dash_board.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_admin_profile.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_dash_board.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_edit_book_details.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_notifications.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/fragment_user_profile.xml" value="0.33" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/new_activity_adminLogin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/new_activity_adminlogin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/new_activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/new_activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/popup.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/profile_menu_layout.xml" value="0.17280701754385966" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_active_books_layout_admin.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_book_layout.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_category_file.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_category_file_admin.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_dashboard_layout_admin.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/single_edit_book_details_layout.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/testing.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/layout/user_notifications_layout.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/menu/admin_bottom_navigation_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/menu/toolbar_menu_admin.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/unejs/Desktop/LibraryManagementApp3/app/src/main/res/menu/user_bottom_navigation_menu.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
