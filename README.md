@@ -25,10 +25,10 @@ User Login: email:sherifiygi@gmail.com  pass:12345678
 -Gradle 5.0 or higher<br />
 -Android 19.0 SDK or higher<br />
 -Latest versions of AndroidX and Google Play Services<br />
--An Android device running Android 4.4(KitKat) or newer
+-An Android device running Android 4.4(KitKat) or newer<br />
 
+**#Building**
 <br />
-**#Building**<br />
 -Make sure you've installed the Android 19.0 or higher SDK and upgraded to the latest version of Android Studio<br />
 -Make sure you've updated all support repository and Google Play Services repository packages in the Android SDK manager<br />
 ![image](https://user-images.githubusercontent.com/89842810/205725571-d2f2a59a-6ecc-4bff-b7f5-540e04f1bbb5.png)<br />
