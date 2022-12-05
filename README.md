@@ -1,5 +1,6 @@
 # Bibliotech Android
-
+**Information about the app can be found on: https://bibliotech.pythonanywhere.com**
+<br>
 **#Step 1:**
 Download the project as a ZIP and extract it <br />
 ![image](https://user-images.githubusercontent.com/89842810/205718555-a0289875-fe4f-4add-8689-f6e5990ed089.png)
