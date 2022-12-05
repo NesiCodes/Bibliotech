@@ -1,14 +1,14 @@
 # Bibliotech Android
 
-**#Step 1: **
+**#Step 1:**
 Download the project as a ZIP and extract it <br />
 ![image](https://user-images.githubusercontent.com/89842810/205718555-a0289875-fe4f-4add-8689-f6e5990ed089.png)
 
-**#Step 2: **
+**#Step 2**
 Open the extracted folder as a project in Android Studio
 ![image](https://user-images.githubusercontent.com/89842810/205719309-5fd9a447-0d1d-482c-b424-3b471800e048.png)
 
-**#Step 3: **
+**#Step 3:**
 Wait for Android Studio to automatically build the project and run the app using gradle by pressing the run app icon or by
 navigating to app>java>com.dataflair.librarymanagementapp>Start class, right click and run Start.java. <br />
 ![image](https://user-images.githubusercontent.com/89842810/205722487-b1b4fbe2-ef47-46af-972a-0c059bc36fde.png)
